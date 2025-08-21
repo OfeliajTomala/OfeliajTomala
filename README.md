@@ -1,4 +1,11 @@
-# 👋 ¡Hola! Soy Ofelia Tomalá
+<h1 align="center"><b>Hola , Soy Ofelia Tomalá</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+<br>
+
 
 🎓 **Estudiante de Desarrollo de Software**  
 💡 Apasionada por aprender programación y desarrollo de software.  
@@ -29,5 +36,7 @@ Actualmente en proceso de aprendizaje:
 
 ---
 
-## 📊 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+## 📊 Mis estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OfeliajTomala&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OfeliajTomala&layout=compact&theme=dark)
